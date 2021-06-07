@@ -14,13 +14,15 @@ organizations:
   url: https://www.svu.edu.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Artificial Intelligence, Human Resource Management, Marketing
+Data Science, Data Analysis.
 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Electronics
+- Data Science
+- Statistics
 
 # Education to show in About widget
 education:
